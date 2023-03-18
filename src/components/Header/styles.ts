@@ -27,7 +27,7 @@ export const HeaderContainer = styled.header`
       }
 
       &.active {
-        color: ${(props) => props.theme['gray-500']};
+        color: ${(props) => props.theme['green-500']};
       }
     }
   }
